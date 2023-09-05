@@ -1,0 +1,14 @@
+C:\Users\er-mi\OneDrive\Skrivebord\C# project\Actual_schoolproject.C#\MyApp\bin\Debug\net7.0\MyApp.exe
+C:\Users\er-mi\OneDrive\Skrivebord\C# project\Actual_schoolproject.C#\MyApp\bin\Debug\net7.0\MyApp.deps.json
+C:\Users\er-mi\OneDrive\Skrivebord\C# project\Actual_schoolproject.C#\MyApp\bin\Debug\net7.0\MyApp.runtimeconfig.json
+C:\Users\er-mi\OneDrive\Skrivebord\C# project\Actual_schoolproject.C#\MyApp\bin\Debug\net7.0\MyApp.dll
+C:\Users\er-mi\OneDrive\Skrivebord\C# project\Actual_schoolproject.C#\MyApp\bin\Debug\net7.0\MyApp.pdb
+C:\Users\er-mi\OneDrive\Skrivebord\C# project\Actual_schoolproject.C#\MyApp\obj\Debug\net7.0\MyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\er-mi\OneDrive\Skrivebord\C# project\Actual_schoolproject.C#\MyApp\obj\Debug\net7.0\MyApp.AssemblyInfoInputs.cache
+C:\Users\er-mi\OneDrive\Skrivebord\C# project\Actual_schoolproject.C#\MyApp\obj\Debug\net7.0\MyApp.AssemblyInfo.cs
+C:\Users\er-mi\OneDrive\Skrivebord\C# project\Actual_schoolproject.C#\MyApp\obj\Debug\net7.0\MyApp.csproj.CoreCompileInputs.cache
+C:\Users\er-mi\OneDrive\Skrivebord\C# project\Actual_schoolproject.C#\MyApp\obj\Debug\net7.0\MyApp.dll
+C:\Users\er-mi\OneDrive\Skrivebord\C# project\Actual_schoolproject.C#\MyApp\obj\Debug\net7.0\refint\MyApp.dll
+C:\Users\er-mi\OneDrive\Skrivebord\C# project\Actual_schoolproject.C#\MyApp\obj\Debug\net7.0\MyApp.pdb
+C:\Users\er-mi\OneDrive\Skrivebord\C# project\Actual_schoolproject.C#\MyApp\obj\Debug\net7.0\MyApp.genruntimeconfig.cache
+C:\Users\er-mi\OneDrive\Skrivebord\C# project\Actual_schoolproject.C#\MyApp\obj\Debug\net7.0\ref\MyApp.dll
